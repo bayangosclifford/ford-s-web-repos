@@ -1,0 +1,33 @@
+html{
+    background-color: #DAD3BE;
+}
+
+#first{
+    border: 1px solid red;
+}
+
+#second{
+    border: 1px solid red;
+    text-align: center;
+}
+
+p{
+    margin-bottom: 21.440px;
+    margin-top: 0px;
+}
+
+h1{
+    margin-bottom: 5px;
+}
+
+#third{
+    border: 1px solid red;
+}
+
+#fourth{
+    border: 1px solid red;
+}
+
+#fifth{
+    border: 1px solid red;
+}
